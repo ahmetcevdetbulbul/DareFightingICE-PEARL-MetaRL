@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sanal ortam (requirements.txt'den yeniden kurulur)
+ftg-env/
+
+# DareFightingICE motoru (uçuncu parti, buyuk boyutlu, ayrica indirilmeli)
+DareFightingICE-7.1/
+DareFightingICE-7.1.zip
+
+# Toplanan egitim verisi (buyuk boyutlu .pt dosyalari, GitHub dosya limitini asiyor)
+collected_data/
+
+# Ilgisiz/erken donem kalintilari
+ftg-repo/
+Sample_data.pth
+Sample_data.pth.zip
+__MACOSX/
+notes.docx
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code yerel oturum durumu
+.claude/

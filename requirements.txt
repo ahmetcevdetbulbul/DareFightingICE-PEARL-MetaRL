@@ -1,0 +1,7 @@
+pyftg==2.3b0
+torch==2.14.0
+numpy==2.4.6
+psutil==7.2.2
+grpcio==1.62.3
+grpcio-tools==1.62.3
+protobuf==4.25.9
